@@ -65,3 +65,4 @@ Configured for autoscale deployment:
   - Updated database connection to use Replit PostgreSQL
   - Set server port to 5000
   - Fixed OPENROUTER_API_KEY property configuration
+  - Removed duplicate webflux dependency
